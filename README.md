@@ -1,6 +1,6 @@
 #installation of project
 1. Clone the repository:
-	git clone https://github.com/yourusername/project-name.git
+	git clone https://github.com/yourusername/project-name.git](https://github.com/421-sumit/react-blog-app.git
 2. Navigate to the project directory:
 	cd project-name
 3. Install dependencies:
